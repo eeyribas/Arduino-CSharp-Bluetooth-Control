@@ -1,0 +1,9 @@
+D:\BACKUP\GitHub Calismalar\Arduino-Bluetooth-Control\UserInterface\bin\Debug\UserInterface.exe.config
+D:\BACKUP\GitHub Calismalar\Arduino-Bluetooth-Control\UserInterface\bin\Debug\UserInterface.exe
+D:\BACKUP\GitHub Calismalar\Arduino-Bluetooth-Control\UserInterface\bin\Debug\UserInterface.pdb
+D:\BACKUP\GitHub Calismalar\Arduino-Bluetooth-Control\UserInterface\obj\Debug\UserInterface.Form1.resources
+D:\BACKUP\GitHub Calismalar\Arduino-Bluetooth-Control\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+D:\BACKUP\GitHub Calismalar\Arduino-Bluetooth-Control\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.cache
+D:\BACKUP\GitHub Calismalar\Arduino-Bluetooth-Control\UserInterface\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\Arduino-Bluetooth-Control\UserInterface\obj\Debug\UserInterface.exe
+D:\BACKUP\GitHub Calismalar\Arduino-Bluetooth-Control\UserInterface\obj\Debug\UserInterface.pdb
