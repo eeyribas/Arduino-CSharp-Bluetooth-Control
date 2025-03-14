@@ -1,16 +1,32 @@
 # Arduino-CSharp-Bluetooth-Control
-Arduino-CSharp user interface is an example of Bluetooth control. The user interface, programmed in C#, sends data to an Arduino connected with a Bluetooth module. Based on the received data, the Arduino controls two LEDs, turning them on or off.
-In the C# user interface, there is a button to connect to the Arduino Bluetooth module. The interface includes three radio buttons and two trackbars.
-If the "0+" radio button is selected, the LEDs connected to the Arduino will turn off according to the value of trackbar-1.
-If the "20+" radio button is selected, the first LED will turn off and the second LED will turn on according to the value of trackbar-2.
-If the "=20" radio button is selected, the first LED will turn on and the second LED will turn off.
+The repository includes a "UserInterface" developed with C# programming language that controls an Arduino connected to a Bluetooth module. 
+The repository also includes control of the Arduino's Bluetooth module.
 
-C# IDE: Visual Studio 2019
+"UserInterface" interface:
 
-C# Framework: .NET Framework 4.6.1
+The "UserInterface" interface, coded in C# programming language, sends data to an Arduino connected via a Bluetooth module. The "UserInterface" includes a button to connect to the Arduino through Bluetooth, three radio buttons, and two trackbars.
+
+1. If the "0+" radio button is selected, the first LED connected to the Arduino will turn on according to the value of trackbar-1, and the second LED will turn off.
+
+2. If the "20+" radio button is selected, the first LED will turn off, and the second LED will turn on according to the value of trackbar-2.
+
+3. If the "=20" radio button is selected, both the first and second LEDs will turn off.
+
+Programming Language: C# Programming Language
+
+Framework: .NET Framework 4.6.1
+
+IDE: Visual Studio 2019
+
+"BluetoothControl" application:
+
+An Arduino is connected to a Bluetooth (HC-05) module and two LEDs. The "BluetoothControl" application controls the two connected LEDs based on the data received via Bluetooth. 
+The data is sent by the "UserInterface" interface.
+
+Programming Language: C/C++ Programming Language
+
+IDE: Arduino IDE Version - 2.2.0
 
 Arduino Used: Arduino Uno, Arduino Mega
-
-Arduino IDE Version: 2.2.0
 
 Arduino Bluetooth Module: HC-05 Bluetooth Module
